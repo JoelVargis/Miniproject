@@ -1,0 +1,10 @@
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\bin\Debug\ktunotifications.exe.config
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\bin\Debug\ktunotifications.exe
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\bin\Debug\ktunotifications.pdb
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.csproj.AssemblyReference.cache
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.Properties.Resources.resources
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.csproj.GenerateResource.cache
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.csproj.CoreCompileInputs.cache
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.exe
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.pdb
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.login.resources
